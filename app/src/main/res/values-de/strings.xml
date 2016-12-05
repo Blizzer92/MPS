@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MPS - MobilePasswordSafe</string>
+    <string name="Beenden">Beenden</string>
+    <string name="FalschesPW">Falsches Passwort</string>
+    <string name="ListSetMessage">Bitte Masterpasswort Eigeben</string>
+    <string name="Okay">Okay</string>
+    <string name="Pas">Passwort</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="benutzername">Benutzername</string>
+    <string name="dbname"></string>
+    <string name="editbt">Bearbeiten</string>
+    <string name="passwort">Passwort</string>
+    <string name="savebt">Speichern</string>
+    <string name="seite">Identifikation</string>
+    <string name="Text1">Bitte geben Sie ein Masterpasswort ein das dazu benutzt wird um Ihre Passwörter zu verschlüsseln</string>
+</resources>

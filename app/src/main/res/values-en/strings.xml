@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MPS - MobilePasswordSafe</string>
+    <string name="Beenden">Exit</string>
+    <string name="FalschesPW">Wrong Password</string>
+    <string name="ListSetMessage">Enter Masterpassword</string>
+    <string name="Okay">Okay</string>
+    <string name="Pas">Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="benutzername">Username</string>
+    <string name="editbt">Edit</string>
+    <string name="passwort">Password</string>
+    <string name="savebt">Save</string>
+    <string name="seite">Identifikation</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MPS - MobilePasswordSafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_info" translatable="false">InfoActivity</string>
+    <string name="version" translatable="false">1</string>
+    <string name="dbname" translatable="false">pwmanager</string>
+    <string name="seite">Identifikation</string>
+    <string name="benutzername">Benutzername</string>
+    <string name="passwort">Passwort</string>
+    <string name="savebt">Speichern</string>
+    <string name="editbt">Bearbeiten</string>
+    <string name="ListSetMessage">Bitte Masterpasswort eingeben</string>
+    <string name="Pas">Passwort</string>
+    <string name="Okay">Okay</string>
+    <string name="Beenden">Beenden</string>
+    <string name="FalschesPW">Falsches Passwort</string>
+    <string name="Text1">Bitte geben Sie ein Masterpasswort ein das dazu benutzt wird um Ihre Passwörter zu verschlüsseln</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2075703306584587/6402092953</string>
+</resources>
